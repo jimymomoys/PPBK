@@ -1,0 +1,17 @@
+{
+  "name": "ppbk",
+  "version": "1.0.0",
+  "description": "PERANGKAT PEMBELAJARAN BERBASIS KOMPUTER",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "JM IHZA MAHENDRA",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.8"
+  },
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
